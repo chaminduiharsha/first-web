@@ -164,4 +164,3 @@ This project is intended for educational and portfolio purposes.
 
 **Chamindu Iharsha**
 
-Faculty of Information Technology
